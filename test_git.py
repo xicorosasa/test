@@ -1,2 +1,2 @@
 def hello_git_py():
-    print("Hello from text on git :)")
+    print("Hello from .py on git :)")
